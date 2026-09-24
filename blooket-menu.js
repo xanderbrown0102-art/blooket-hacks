@@ -1,8 +1,4 @@
-/**
- * Blooket Hacks Menu v2.0
- * Paste this into the F12 Console while inside a game lobby.
- * All functions are modular — uncomment the ones you need.
- */
+
 
 (async () => {
     console.clear();
